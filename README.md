@@ -10,6 +10,8 @@ stage of development at the EPFL DATA Lab.
 While DBLAB is publicly available for inspection here, SC isn't.
 However, we have made a binary release of SC to be able to compile DBLAB.
 
+SC binary is avaialbe at https://github.com/epfldata/sc-public 
+
 Project Structure
 -----------------
 [DBLAB Components](components)
